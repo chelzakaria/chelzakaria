@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> Connect with me
-<a href="https://www.linkedin.com/in/zakaria-chel/" title="LinkedIn" target="_blank"><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/Linkedin"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/" title="LinkedIn" target="_blank"><img align="center" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/zakachel" title="Twitter" target="_blank"><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/X"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com" title="Instagram" target="_blank"><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/Instagram"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#" title="Mail" target="_blank"><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/minutemailer"/></a>
