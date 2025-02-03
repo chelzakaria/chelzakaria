@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3200&pause=10&color=20C20E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Zakaria;A+junior+data+scientist;A+software+developer;Also+a+graphic+designer;I+love+to+learn+new+stuff+%3C3;Welcome+here+%3A)" alt=About me">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3200&pause=7&color=20C20E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Zakaria;Data+Scientist+|+Software+Engineer;Passionate+about+AI,+BI,+and+Automation;Building+Data-Driven+Solutions;Welcome+to+my+GitHub!" alt="About Me">
 </p>
+
 
 <!-- ## About me 
 
